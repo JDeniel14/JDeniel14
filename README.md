@@ -15,4 +15,4 @@
 - [📖🛒 Portal Agapea](#): App de venta de libros replicando el portal oficial de AGAPEA, desarrollado durante el segundo curso de DAW en Angular(v17) y React(v18) (junto con bootstrap🎨), node + firebase🔥, además también lo desarrollamos en Blazor.
 
 ## 📫 Contacto
-- ![](https://img.icons8.com/?size=48&id=13930&format=png&color=000000)\n -[LinkedIn](https://www.linkedin.com/in/josedanielgallego/)
+- [LinkedIn](https://www.linkedin.com/in/josedanielgallego/)
