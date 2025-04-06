@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Dani (Deniel)
 
-<!--
-**JDeniel14/JDeniel14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web full stack junior con ganas de aprender y liarla 😋.  
+🎓 Actualmente trabajando en ICP como soporte/Desarrollador .net pero recién salido de DAW.
+🚀 Apasionado de la música, el desarrollo, interesado por Angular, APIs, entre otros...
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías con las que trabajo:
+- Front: React, Angular, TypeScript, Tailwind
+- Back: Node, C#, .NET, Java
+- DBs: SQL Server, MongoDB
+- Otros: Git, GitHub, Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados:
+- [🎧 DSounds](https://github.com/JDeniel14/DSounds_Front): Una plataforma de venta de discos de música, minimalista, desarrollada en Angular, Node.js con Express, Tailwind con Funcionalidades interesantes como la vista de eventos musicales en España gracias a la API de Ticketmasters o la compra con Stripe.
+- [📖🛒 Portal Agapea]: App de venta de libros replicando el portal oficial de AGAPEA, desarrollado durante el segundo curso de DAW en Angular(v17) y React(v18) (junto con bootstrap🎨), node + firebase🔥, además también lo desarrollamos en Blazor.
+
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/josedanielgallego/)
