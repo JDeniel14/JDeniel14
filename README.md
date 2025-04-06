@@ -6,13 +6,13 @@
 
 ## 🛠️ Tecnologías con las que trabajo:
 - Front: React, Angular, TypeScript, Tailwind
-- Back: Node, C#, .NET, Java
+- Back: Node, C#, .NET
 - DBs: SQL Server, MongoDB
 - Otros: Git, GitHub, Azure DevOps
 
 ## 📌 Proyectos destacados:
 - [🎧 DSounds](https://github.com/JDeniel14/DSounds_Front): Una plataforma de venta de discos de música, minimalista, desarrollada en Angular, Node.js con Express, Tailwind con Funcionalidades interesantes como la vista de eventos musicales en España gracias a la API de Ticketmasters o la compra con Stripe.
-- [📖🛒 Portal Agapea]: App de venta de libros replicando el portal oficial de AGAPEA, desarrollado durante el segundo curso de DAW en Angular(v17) y React(v18) (junto con bootstrap🎨), node + firebase🔥, además también lo desarrollamos en Blazor.
+- [📖🛒 Portal Agapea](#): App de venta de libros replicando el portal oficial de AGAPEA, desarrollado durante el segundo curso de DAW en Angular(v17) y React(v18) (junto con bootstrap🎨), node + firebase🔥, además también lo desarrollamos en Blazor.
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/josedanielgallego/)
+- (https://img.icons8.com/?size=100&id=13930&format=png&color=000000)[LinkedIn](https://www.linkedin.com/in/josedanielgallego/)
